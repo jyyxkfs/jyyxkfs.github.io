@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>九云游戏开发社资料库 Blog</title>
+        <link>https://your-docusaurus-site.example.com/blog</link>
+        <description>九云游戏开发社资料库 Blog</description>
+        <lastBuildDate>Thu, 21 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[九云游戏开发社资料库搭建完毕]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/jydoc-dev-0</link>
+            <guid>https://your-docusaurus-site.example.com/blog/jydoc-dev-0</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[九云游戏开发社初版资料库框架现已基本搭建完毕，欢迎各位社员使用。]]></description>
+            <content:encoded><![CDATA[<p>九云游戏开发社初版资料库框架现已基本搭建完毕，欢迎各位社员使用。</p>]]></content:encoded>
+            <category>jydoc-dev</category>
+        </item>
+        <item>
+            <title><![CDATA[欢迎]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
+            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎来到九云游戏开发社在线资料库。本资料库用于托管九云游戏开发社社团活动中所涉及的各类资料文件，以便随时在线查阅。]]></description>
+            <content:encoded><![CDATA[<p>欢迎来到九云游戏开发社在线资料库。本资料库用于托管九云游戏开发社社团活动中所涉及的各类资料文件，以便随时在线查阅。</p>
+<p>资料库各项功能尚在完善中，可能会有些许漏洞，欢迎联系随时反馈。搭建者&amp;维护者：src_resources</p>]]></content:encoded>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>

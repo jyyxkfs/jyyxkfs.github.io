@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[381],{26319:e=>{e.exports=JSON.parse('{"label":"jydoc-dev","permalink":"/blog/tags/jydoc-dev","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

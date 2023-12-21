@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[631],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4e5d\u4e91\u6e38\u620f\u5f00\u53d1\u793e\u8d44\u6599\u5e93\u642d\u5efa\u5b8c\u6bd5","permalink":"/blog/jydoc-dev-0","unlisted":false},{"title":"\u6b22\u8fce","permalink":"/blog/welcome","unlisted":false}]}')}}]);

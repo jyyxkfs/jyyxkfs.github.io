@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>九云游戏开发社资料库 Blog</title>
+    <updated>2023-12-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>九云游戏开发社资料库 Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/jylogo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[九云游戏开发社资料库搭建完毕]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/jydoc-dev-0</id>
+        <link href="https://your-docusaurus-site.example.com/blog/jydoc-dev-0"/>
+        <updated>2023-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[九云游戏开发社初版资料库框架现已基本搭建完毕，欢迎各位社员使用。]]></summary>
+        <content type="html"><![CDATA[<p>九云游戏开发社初版资料库框架现已基本搭建完毕，欢迎各位社员使用。</p>]]></content>
+        <author>
+            <name>Hu Haowen</name>
+            <uri>https://github.com/srcres258</uri>
+        </author>
+        <category label="jydoc-dev" term="jydoc-dev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <updated>2023-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[欢迎来到九云游戏开发社在线资料库。本资料库用于托管九云游戏开发社社团活动中所涉及的各类资料文件，以便随时在线查阅。]]></summary>
+        <content type="html"><![CDATA[<p>欢迎来到九云游戏开发社在线资料库。本资料库用于托管九云游戏开发社社团活动中所涉及的各类资料文件，以便随时在线查阅。</p>
+<p>资料库各项功能尚在完善中，可能会有些许漏洞，欢迎联系随时反馈。搭建者&amp;维护者：src_resources</p>]]></content>
+        <author>
+            <name>Hu Haowen</name>
+            <uri>https://github.com/srcres258</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
